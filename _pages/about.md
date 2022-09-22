@@ -8,8 +8,33 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+pap {color:Green;}
+ser { color:Blue;}
+gr { color:Purple;}
+me { color:Orange;}
+talk { color:Pink;}
+text { color:Black;}
+</style>
+
 I am an assistant professor in the [Department of Information Systems and Cyber Security](https://business.utsa.edu/information-systems-cyber-security/) at the University of Texas at San Antonio (UTSA). My research is focused on studying current and emerging cybersecurity issues in online hate and offensiveness, security of AI/ML systems, and online privacy.
 
 I received my Ph.D in CSE from the Unversity at Buffalo, SUNY in spring 2022, under the direction of [Dr. Hongxin Hu](https://cse.buffalo.edu/~hongxinh/). I have worked on various aspects of emerging cybersecurity threats such as cyberbullying, cyberharassment, online offensiveness, attacks and defenses of AI/ML models, and image privacy and security.
 
 I am actively looking for self-motivated students (PhD/Master/Undergraduate/Intern) to conduct research in online hate and offensiveness, AI/ML security (adversarial attacks, robustness, interpretability/explainability, privacy, and backdoors), crowdsourcing, and social media mining. Interested students please feel free to send me an email with your CV and transcript.
+
+# News
+- <pap>[Paper]</pap><text>12/2021: One paper accepted at CODASPY 2022.</text>
+- <ser>[Service]</ser><text>12/2021: I have been invited as a reviewer for IEEE Transactions on Engineering Management.</text>
+- <me>[Media]</me><text>11/2021: Team Cacti Places 5th at Baidu Autodriving Capture the Flag Competition.</text> [Read More](https://engineering.buffalo.edu/home/news/seas.host.html/content/shared/engineering/home/articles/news-articles/2021/team-cacti-places-5th-at-baidu-autodriving-capture-the-flag-comp.detail.html).
+- <pap>[Paper]</pap><text>10/2021: One paper accepted at the Journal of Hate Studies.</text>
+- <ser>[Service]</ser><text>10/2021: I will serve as a TPC member for ACSAC'21 Artifacts Evaluation Committee </text>
+- <talk>[Talk]</talk><text>07/2021: I was invited as a guest speaker to give a talk on cyberbullying detection using deep learning at NC A&T State University on July 21st, 2021.</text>
+- <ser>[Service]</ser><text>04/2021: I have been asked to serve as a sub-reviewer on DESRIST-2021 conference review committee.</text>
+- <gr>[Grant]</gr><text>04/2021: Grant from Baylor University Research Committee ONE-URC Program (as Co-PI)</text>
+- <me>[Media]</me><text>03/2021:Our work on image-based cyberbullying published at NDSS 2021 has been showcased on the UB CSE homepage</text> [Read More](https://engineering.buffalo.edu/computer-science-engineering/news-and-events/news.host.html/content/shared/engineering/home/articles/news-articles/2021/cybersecurity-research-showcased-at-network-and-distributed-system-security-symposium.detail.html)
+- <ser>[Service]</ser><text>02/2021: I will be serving on the program committee of ACHI 2021</text>
+- <talk>[Talk]</talk><text>02/2021: I gave a talk on image-based cyberbullying at NDSS 2021 held in virtual format. </text>
+- <pap>[Paper]</pap><text>01/2021: Our work on image-based cyberbullying has been accepted at NDSS 2021. The paper acceptance rate at NDSS at this year was 15.2 percent or 87 out of 573 </text>
+- <ser>[Service]</ser><text>01/2021: I will serve as a TPC member for CODASPY'21 Poster Program Committee </text>
+- <ser>[Service]</ser><text>01/2020: I will be hosting the UB Cybersecurity Reading Group Meetings this semester (Spring 2021) at UB. We will discuss many interesting papers this semster on various fields of cybersecurity.</text>
