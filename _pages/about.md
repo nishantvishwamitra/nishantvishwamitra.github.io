@@ -14,7 +14,7 @@ ser { color:Blue;}
 gr { color:Purple;}
 me { color:Orange;}
 talk { color:Pink;}
-text { color:Black;}
+text { color:#494e52;}
 </style>
 
 I am an assistant professor in the [Department of Information Systems and Cyber Security](https://business.utsa.edu/information-systems-cyber-security/) at the University of Texas at San Antonio (UTSA). My research is focused on studying current and emerging cybersecurity issues in online hate and offensiveness, security of AI/ML systems, and online privacy.
