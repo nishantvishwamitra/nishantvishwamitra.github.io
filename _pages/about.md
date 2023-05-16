@@ -24,7 +24,7 @@ I received my Ph.D in CSE from the Unversity at Buffalo, SUNY in spring 2022, un
 I am actively looking for self-motivated students (PhD/Master/Undergraduate/Intern) to conduct research in online hate and offensiveness, AI/ML security (adversarial attacks, robustness, interpretability/explainability, privacy, and backdoors), crowdsourcing, and social media mining. Interested students please feel free to send me an email with your CV and transcript.
 
 # News
-- <text>3/2023:  I have recieved the NSF CRII [Dr. Hongxin Hu](https://cse.buffalo.edu/~hongxinh/) on addressing new waves of online hate</text>
+- <text>3/2023:  I have recieved the NSF CRII <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245983&HistoricalAwards=false">award</a> on addressing new waves of online hate</text>
 - <text>8/2022: I have joined UTSA as a tenured track assistant professor in the IS&CS department</text>
 - <pap>[Paper]</pap><text>12/2021: One paper accepted at CODASPY 2022.</text>
 - <ser>[Service]</ser><text>12/2021: I have been invited as a reviewer for IEEE Transactions on Engineering Management.</text>
