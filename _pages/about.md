@@ -24,6 +24,8 @@ I received my Ph.D in CSE from the Unversity at Buffalo, SUNY in spring 2022, un
 I am actively looking for self-motivated students (PhD/Master/Undergraduate/Intern) to conduct research in online hate and offensiveness, AI/ML security (adversarial attacks, robustness, interpretability/explainability, privacy, and backdoors), crowdsourcing, and social media mining. Interested students please feel free to send me an email with your CV and transcript.
 
 # News
+- <pap>[Paper]</pap><text>5/2023: Our paper titled "Analysis of COVID-19 Offensive Tweets and Their Targets" has been accepted for publication at KDD 2023. The aceptance rate is 25.37 percent or 184 out of 725</text>
+- <pap>[Paper]</pap><text>5/2023: Our paper titled "COVID-19 and Sinophobia: Detecting Warning Signs of Radicalization on Twitter and Reddit" has been accepted for publication in Cyberpsychology, Behavior, and Social Networking.</text>
 - <gr>[Grant]</gr><text>3/2023: I have recieved the NSF CRII <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245983&HistoricalAwards=false">award</a> on addressing new waves of online hate</text>
 - <text>8/2022: I have joined UTSA as a tenured track assistant professor in the IS&CS department</text>
 - <pap>[Paper]</pap><text>12/2021: One paper accepted at CODASPY 2022.</text>
